@@ -1,7 +1,7 @@
 package Clinica;
 
 public abstract class Animal {
-//protected pq son visibles para que sean visibles para las subclases
+//protected  para que sean visibles para las subclases
 
     protected String nombre;
     protected int edad;
